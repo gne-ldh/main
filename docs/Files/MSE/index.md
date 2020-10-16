@@ -11,5 +11,5 @@
 Without Zoom room you may attempt demo, but you need to do it once with your mentor.
 1. Make sure your webcam and mic is on.
 1. Attempt Quiz, password is `MySecretPassword`
-1. Once submitted (be careful, there will many confirmation required from you), you Quit Safe Exam Browser from bottom left, which also need password.
+1. Once submitted (be careful, there will many confirmation required from you), you Terminate Session or Quit Safe Exam Browser from bottom left, which also need password.
 1. Password is `IQuit`.
