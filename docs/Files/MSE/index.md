@@ -1,6 +1,6 @@
 # Demo of Mid Semester Examination (MSE) Oct 2020
 
-1. Self register for course "GD testing course" at [GD](https://guru.gndec.ac.in/enrol/index.php?id=866). At bottom of page enter Emrolemnt Key (under MSE_Demo)
+1. Self register for course "GD testing course" at [GD](https://guru.gndec.ac.in/enrol/index.php?id=866). At bottom of page enter Emrolemnt Key (under MSE_Demo). You must have got emrolment key from your teacher / HoD via WhatsApp / Email / SMS.
 1, Go to "This course" -> Quizzes, click on "MSE Part A" against 12 April - 18.
 1. There you will find links to download "Safe Exam Browser" and "Download configuration".
 1. Download both.
