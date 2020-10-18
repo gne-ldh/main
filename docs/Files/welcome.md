@@ -16,6 +16,7 @@ Induction program
 ## Instructions to set participant name for attending zoom meeting link during induction program sessions
 Students must note that the attendance of all sessions will be taken during the induction program. For this purpose,  each student will join the zoom meeting with participant name set according to the following rule: Participant name = Branch abbreviation_First name of student_First name of father. **For example, if a student getting admission to civil branch has name "Abhishek Kumar Verma" Son of "Sandeep Kumar Verma", then he will join the zoom meeting with the name CE_Abhishek_Sandeep.** All students will follow this rule. Any students, who attends zoom meeting with some other name or number etc. will be marked as absent.
 For conveninece of students, the branch abbreviations are given below:
+
 Branch | Abbreviation
 ------| ---------
 Civil Engineering | CE
