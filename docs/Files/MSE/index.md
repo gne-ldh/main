@@ -27,7 +27,7 @@
     1. QUIZ 2 (Part- B)- 4 short answer type questions 5 marks each. (FOR QUIZ 2, Total time 70 minutes, 40 Minutes to attempt & 30 Minutes for uploading)
     1. In Part-B, students need to upload scanned copy of their answer sheets with individual questions.
 
-## General Instructiona
+## General Instructions
 
 1. No Book, Notes or any study content allowed during examination.
 1. Students may use device of their choice, with updated Operating System, browser or App.
