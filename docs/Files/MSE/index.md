@@ -9,4 +9,8 @@ Without Zoom room you may attempt demo, but you need to do it once with your men
 1. Quiz is password protected, when asked, use `MySecretPassword` as password.
 1. Attempt it and submit.
 
-
+# Skype Guidelines 
+1. Download and install the skype app from https://www.skype.com/en/get-skype/
+1. Open the app and create an account either with Phone No. or email.
+1. Login into the application. 
+1. Click on "Meet now" with option "Host a Meeting".
