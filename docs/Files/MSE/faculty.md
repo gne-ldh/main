@@ -1,5 +1,5 @@
 # Skype Guidelines 
-1. Read [Instructions for studnets](https://gne-ldh.github.io/main/Files/MSE/) to know how to get Skype and create account.
+1. Read [Instructions for students](https://gne-ldh.github.io/main/Files/MSE/) to know how to get Skype and create account.
 1. Login into the Skype. 
 1. Click on "Meet now" with option "Host a Meeting".
 1. Give a name to the meeting, suitable to clasee and group, something like i.e "MSE_Civil_Group4".
