@@ -14,7 +14,7 @@ Program Coordinator
 
 Induction program
 ## Instructions to set participant name for attending zoom meeting link during induction program sessions
-Students must note that each student will join the zoom meeting with participant name set according to the following rule: Participant name = Branch abbreviation_First name of student_First name of father. **For example, if a student getting admission to civil branch has name "Abhishek Kumar Verma" Son of "Sandeep Kumar Verma", then he will join the zoom meeting with the name CE_Abhishek_Sandeep.** All students will follow this rule. Any student, who attends zoom meeting with some other name or number etc. will not be allowed to join the zoom meeting by the host.
+Kindly note that each student will join the zoom meeting with participant name set according to the following rule: Participant name = Branch abbreviation_First name of student_First name of father. **For example, if a student getting admission to civil branch has name "Abhishek Kumar Verma" Son of "Sandeep Kumar Verma", then he will join the zoom meeting with the name CE_Abhishek_Sandeep.** All students will follow this rule. Any student sending join request with some other name or identity etc. will not be allowed to join the zoom meeting by the host.
 For convenience of students, the branch abbreviations are given below:
 
 | Branch | Abbreviation |
