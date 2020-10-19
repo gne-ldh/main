@@ -26,3 +26,14 @@ For convenience of students, the branch abbreviations are given below:
 | Information Technology | IT |
 | Mechanical engineering | ME |
 | Mechanical Engineering (Production) | PE |
+
+## Detail of expert lectures of Induction Program
+| Date | Time | Activity Name | Expert Name | 
+| -----| ---- | ----------- |-----|
+| 16-10-2020 | 10:00 AM | Mool Mantar |    |
+| 16-10-2020 | 10:10 AM | College Presentation |  Dr. Parminder Singh  |
+| 16-10-2020 | 11:00 AM | Welcome adress by Principal | Dr. Sehijpal Singh   |
+| 16-10-2020 | 11:30 AM | Motivational Lecture | Dr. Ashwani Bhalla   |
+| 16-10-2020 | 12:40 PM | Vote of Thanks | Pf. Satwinderjit Kaur   |
+| 19-10-2020 | 10:00 AM | Motivational Lecture |Mr. Soni Goyal    |
+| 19-10-2020 | 11:30 AM | Presentation about the Chemistry Subject |  Dr. Amanpreet Kaur Sodhi  |
