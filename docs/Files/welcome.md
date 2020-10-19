@@ -31,13 +31,13 @@ For convenience of students, the branch abbreviations are given below:
 
 | Date | Time | Activity Name | Expert Name | 
 | -----| ---- | ----------- |-----|
-| 16-10-2020  | 10:00 AM | Mool Mantar |    |
+| 16-10-2020  | 10:00 AM | Mool Mantara Recitation |    |
 | 16-10-2020  | 10:10 AM | College Presentation |  Dr. Parminder Singh  |
-| 16-10-2020  | 11:00 AM | Welcome adress by Principal | Dr. Sehijpal Singh   |
+| 16-10-2020  | 11:00 AM | Welcome address by Principal | Dr. Sehijpal Singh   |
 | 16-10-2020  | 11:30 AM | Motivational Lecture | Dr. Ashwani Bhalla   |
 | 16 -10-2020 | 12:40 PM | Vote of Thanks | Pf. Satwinderjit Kaur   |
 | 19-10-2020  | 10:00 AM | Motivational Lecture |Mr. Soni Goyal    |
-| 19-10-2020  | 11:30 AM | MOOCs, SWAYAM & NPTEL |  Pf. Lakhvir Singh Khana  |
-| 20-10-2020  | 10:00 AM | Presentation regarding academics |  Dr. Akshay Girdhar  |
-| 20-10-2020  | 11:30 AM | Presentation regarding chemistry subject |  Dr. Amanpreet Kaur Sodhi  |
+| 19-10-2020  | 11:30 AM | Introduction to MOOCs, SWAYAM & NPTEL |  Pf. Lakhvir Singh Khana  |
+| 20-10-2020  | 10:00 AM | Presentation regarding academic rules & regulations |  Dr. Akshay Girdhar, Dean(Academics)  |
+| 20-10-2020  | 11:30 AM | Presentation regarding Chemistry subject |  Dr. Amanpreet Kaur Sodhi  |
  
