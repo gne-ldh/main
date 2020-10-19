@@ -29,7 +29,9 @@ For convenience of students, the branch abbreviations are given below:
 
 ## Detail of expert lectures of Induction Program
 
-
+<style>
+table {
+    width:70%;
 | Date | Time | Activity Name | Expert Name | 
 | -----| ---- | ----------- |-----|
 | 16-10-2020 | 10:00 AM | Mool Mantar |    |
@@ -39,3 +41,5 @@ For convenience of students, the branch abbreviations are given below:
 | 16-10-2020 | 12:40 PM | Vote of Thanks | Pf. Satwinderjit Kaur   |
 | 19-10-2020 | 10:00 AM | Motivational Lecture |Mr. Soni Goyal    |
 | 19-10-2020 | 11:30 AM | Presentation about the Chemistry Subject |  Dr. Amanpreet Kaur Sodhi  |
+}
+ </style> 
