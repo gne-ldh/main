@@ -31,7 +31,7 @@ For convenience of students, the branch abbreviations are given below:
 
 <style>
 table {
-    width:75%;
+    width:72%;
 | Date | Time | Activity Name | Expert Name | 
 | -----| ---- | ----------- |-----|
 | 16-10-2020 | 10:00 AM | Mool Mantar |    |
