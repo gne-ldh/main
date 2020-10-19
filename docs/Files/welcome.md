@@ -28,6 +28,8 @@ For convenience of students, the branch abbreviations are given below:
 | Mechanical Engineering (Production) | PE |
 
 ## Detail of expert lectures of Induction Program
+
+
 | Date | Time | Activity Name | Expert Name | 
 | -----| ---- | ----------- |-----|
 | 16-10-2020 | 10:00 AM | Mool Mantar |    |
