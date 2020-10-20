@@ -37,7 +37,7 @@ For convenience of students, the branch abbreviations are given below:
 | <font size="2"> 16-10-2020 </font>  |  |<font size="2"> 11:00 AM </font> |  |<font size="2"> Welcome address by Principal </font> | <font size="2"> Dr. Sehijpal Singh </font>  |
 | <font size="2"> 16-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Motivational Lecture </font> | <font size="2"> Dr. Ashwani Bhalla  </font> |
 | <font size="2"> 16 -10-2020 </font> |  |<font size="2"> 12:40 PM </font> |  |<font size="2"> Vote of Thanks </font> | <font size="2"> Pf. Satwinderjit Kaur </font>  |
-| <font size="1"> 19-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Motivational Lecture </font> | <font size="2"> Mr. Soni Goyal </font>   |
+| <font size="2"> 19-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Motivational Lecture </font> | <font size="2"> Mr. Soni Goyal </font>   |
 | <font size="2"> 19-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Introduction to MOOCs, SWAYAM & NPTEL </font> |  <font size="2"> Pf. Lakhveer Singh Khana </font> |
 | <font size="2"> 20-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding academic rules & regulations </font> |  <font size="2"> Dr. Akshay Girdhar, Dean(Academics) </font> |
 | <font size="2"> 20-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Presentation regarding Chemistry subject </font> |  <font size="2"> Dr. Amanpreet Kaur Sodhi </font> |
