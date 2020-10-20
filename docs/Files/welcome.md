@@ -44,6 +44,6 @@ Er. Jaswant Singh Zaffar is S. E. in PSPCL. He is leading poet and intellectual.
 | <font size="2"> 20-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding academic rules & regulations </font> |  <font size="2"> Dr. Akshay Girdhar, Dean(Academics) </font> |
 | <font size="2"> 20-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Presentation regarding Chemistry subject </font> |  <font size="2"> Dr. Amanpreet Kaur Sodhi </font> |
 | <font size="2"> 21-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding NCC </font> |  <font size="2"> Dr. Harwinder Singh </font> |
-| <font size="2"> 21-10-2020 </font> |  |<font size="2"> 10:45 AM </font> |  |<font size="2"> Motivational Lecture </font> |  <font size="2"> Dr. Arvind Dhingra </font> |
+| <font size="2"> 21-10-2020 </font> |  |<font size="2"> 10:45 AM </font> |  |<font size="2"> Role of professional societies for development of engineering students </font> |  <font size="2"> Dr. Arvind Dhingra </font> |
 | <font size="2"> 21-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Life Skills </font> |  <font size="2"> Er. Jaswant Singh Zaffar </font> |
  
