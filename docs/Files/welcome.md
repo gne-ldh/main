@@ -31,9 +31,6 @@ For convenience of students, the branch abbreviations are given below:
 | Mechanical engineering | ME |
 | Mechanical Engineering (Production) | PE |
 
-![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/jz.jpg?raw=true "Er. Jaswant Singh Zaffar")
-# GNDEC Welcomes Er. Jaswant Singh Zaffar
-Er. Jaswant Singh Zaffar is S. E. in PSPCL. He is leading poet and intellectual. He will be delivering his lecture about life skills on 21-10-2020 from 11:30am to 1:00pm in the ongoing induction program 2020. 
 ## Detail of expert lectures of Induction Program
 
 | Date | | Time | | Activity Name | Expert Name | 
@@ -50,4 +47,5 @@ Er. Jaswant Singh Zaffar is S. E. in PSPCL. He is leading poet and intellectual.
 | <font size="2"> 21-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding NCC </font> |  <font size="2"> Dr. Harwinder Singh </font> |
 | <font size="2"> 21-10-2020 </font> |  |<font size="2"> 10:45 AM </font> |  |<font size="2"> Role of professional societies for development of engineering students </font> |  <font size="2"> Dr. Arvind Dhingra </font> |
 | <font size="2"> 21-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Life Skills </font> |  <font size="2"> Er. Jaswant Singh Zaffar </font> |
- 
+| <font size="2"> 22-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding English </font> |  <font size="2"> Pf. Puneet Narang </font> |
+| <font size="2"> 22-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Expert Lecture </font> |  <font size="2"> Dr. Loveleen Bains </font> |
