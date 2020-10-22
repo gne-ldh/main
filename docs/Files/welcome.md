@@ -49,3 +49,6 @@ For convenience of students, the branch abbreviations are given below:
 | <font size="2"> 21-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Life Skills </font> |  <font size="2"> Er. Jaswant Singh Zaffar </font> |
 | <font size="2"> 22-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding English </font> |  <font size="2"> Pf. Puneet Narang </font> |
 | <font size="2"> 22-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Expert Lecture </font> |  <font size="2"> Dr. Loveleen Bains </font> |
+| <font size="2"> 22-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Expert Lecture (Maths) </font> |  <font size="2"> Dr. Ashish Arora (IKGPTU) </font> |
+| <font size="2"> 23-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Expert Lecture </font> |  <font size="2"> Dr. Jatinder Kapoor </font> |
+
