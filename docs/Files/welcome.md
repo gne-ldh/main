@@ -56,5 +56,5 @@ Mr. Gursharan Singh is Business Consultant, Trainer & Life Coach helping People 
 | <font size="2"> 22-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Expert Lecture (Maths) </font> |  <font size="2"> Dr. Ashish Arora (IKGPTU) </font> |
 | <font size="2"> 23-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Expert Lecture </font> |  <font size="2"> Dr. Jatinder Kapoor </font> |
 | <font size="2"> 26-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding Physics </font> |  <font size="2"> Dr. Randhir Singh, Dr. Harpreet Kaur Grewal </font> |
-| <font size="2"> 26-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> How to build rock solid career </font> |  <font size="2"> Mr. Gursharan Singh (MD, True Success Academy, Chandigarh </font> |
+| <font size="2"> 26-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> How to build rock solid career </font> |  <font size="2"> Mr. Gursharan Singh (MD, True Success Academy, Chandigarh) </font> |
 
