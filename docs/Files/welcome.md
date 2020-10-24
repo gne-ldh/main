@@ -31,6 +31,10 @@ For convenience of students, the branch abbreviations are given below:
 | Mechanical engineering | ME |
 | Mechanical Engineering (Production) | PE |
 
+
+![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/gs.JPG?raw=true "gs")
+## GNDEC welcomes Mr. Gursharan Singh (MD True success Academy Chandigarh)
+Mr. Gursharan Singh is Business Consultant, Trainer & Life Coach helping People & Organizations to Become Better & Achieve Better Results. He will be delivering expert lecture to newly admitted students of B.Tech. on 26-10-2020 from 11:30 am to 1:00 pm. The topic of his expert lecture is "How to build rock solid career."
 ## Detail of expert lectures of Induction Program
 
 | Date | | Time | | Activity Name | Expert Name | 
@@ -51,4 +55,6 @@ For convenience of students, the branch abbreviations are given below:
 | <font size="2"> 22-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Expert Lecture </font> |  <font size="2"> Dr. Loveleen Bains </font> |
 | <font size="2"> 22-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Expert Lecture (Maths) </font> |  <font size="2"> Dr. Ashish Arora (IKGPTU) </font> |
 | <font size="2"> 23-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Expert Lecture </font> |  <font size="2"> Dr. Jatinder Kapoor </font> |
+| <font size="2"> 26-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding Physics </font> |  <font size="2"> Dr. Randhir Singh, Dr. Harpreet Kaur Grewal </font> |
+| <font size="2"> 26-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> How to build rock solid career </font> |  <font size="2"> Mr. Gursharan Singh (MD, True Success Academy, Chandigarh </font> |
 
