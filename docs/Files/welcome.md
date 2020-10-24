@@ -33,7 +33,7 @@ For convenience of students, the branch abbreviations are given below:
 
 
 ![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/gs.JPG?raw=true "gs")
-## GNDEC welcomes Mr. Gursharan Singh (MD True success Academy Chandigarh)
+## GNDEC welcomes Mr. Gursharan Singh (MD True Success Academy Chandigarh)
 Mr. Gursharan Singh is Business Consultant, Trainer & Life Coach helping People & Organizations to Become Better & Achieve Better Results. He will be delivering expert lecture to newly admitted students of B.Tech. on 26-10-2020 from 11:30 am to 1:00 pm. The topic of his expert lecture is "How to build rock solid career."
 ## Detail of expert lectures of Induction Program
 
