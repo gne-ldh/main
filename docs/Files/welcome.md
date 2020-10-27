@@ -58,6 +58,11 @@ Mr. Gursharan Singh is Business Consultant, Trainer & Life Coach helping People 
 | <font size="2"> 23-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Expert Lecture </font> |  <font size="2"> Dr. Jatinder Kapoor </font> |
 | <font size="2"> 26-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding Mathematics </font> |  <font size="2"> Pf. Pragya </font> |
 | <font size="2"> 26-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> How to build rock solid career </font> |  <font size="2"> Mr. Gursharan Singh (MD, True Success Academy, Chandigarh) </font> |
-| <font size="2"> 26-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation by Training and Placement Officer </font> |  <font size="2"> Pf. Gagandeep Singh Sodhi </font> |
-| <font size="2"> 26-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Presentation regarding mathematics </font> |  <font size="2"> Pf. Rajbir Kaur </font> |
+| <font size="2"> 27-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation by Training and Placement Officer </font> |  <font size="2"> Pf. Gagandeep Singh Sodhi </font> |
+| <font size="2"> 27-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Presentation regarding mathematics </font> |  <font size="2"> Pf. Rajbir Kaur </font> |
+| <font size="2"> 28-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation on "Programming for problem solving" </font> |  <font size="2"> Dr. Kamaljit Kaur </font> |
+| <font size="2"> 28-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Presentation regarding Physics </font> |  <font size="2"> Dr. Randhir Singh </font> |
+| <font size="2"> 29-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding "Engineering Drawing and Computer Graphics" </font> |  <font size="2"> Dr. Harwinder Singh </font> |
+| <font size="2"> 29-10-2020 </font> |  |<font size="2"> 11:00 AM </font> |  |<font size="2"> Presentation on Skill Traing Programs at STEP-GNDEC </font> |  <font size="2"> Dr. Arvind Dhingra </font> |
+| <font size="2"> 29-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Expert Lecture </font> |  <font size="2"> Dr. Ashwani Bhalla </font> |
 
