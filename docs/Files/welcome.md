@@ -4,7 +4,7 @@ to all students admitted to Guru Nanak Dev Engineering College, Ludhiana
 
 ## Mandatory Induction Program Inaugural day joining link:
 
-The inaugural session of Mandatory Induction is scheduled for 10:00 a.m. on 16-10-2020. Join at 09:45 a.m. at [Virtual Auditorium](https://youtu.be/Xwz157BdEx8). The link for attending subsequent sessions of program from 19-10-2020 onward will be updated below.
+The inaugural session of Mandatory Induction is scheduled for 10:00 a.m. on 16-10-2020. Join at 09:45 a.m. at [Virtual Auditorium](https://youtu.be/Ct6lMoZWGR0). The link for attending subsequent sessions of program from 19-10-2020 onward will be updated below.
 
 ## Information regarding schedule of induction program
 
@@ -12,7 +12,7 @@ All students of B.Tech. first year 2020-2021 batch should note that there will b
 
 **The students can join the induction program through this new [Zoom meeting Link](https://gndec-ac-in.zoom.us/j/89629319023?pwd=Ym5LT0ZzTVNDNDdPSTh1NGlrNG8wdz09) and Passcode: 021799 from 26 Oct 2020, 10:00 AM onward.** 
 
-Those students, who cannot join zoom meeting link, can watch the live streaming of each session on YouTube by clicking at this **[Virtual Auditorium Link](https://youtu.be/xUDLugDXYZk).**
+Those students, who cannot join zoom meeting link, can watch the live streaming of each session on YouTube by clicking at this **[Virtual Auditorium Link](https://youtu.be/Ct6lMoZWGR0).**
 
 Program Coordinator
 
