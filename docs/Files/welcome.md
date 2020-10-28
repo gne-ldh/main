@@ -74,5 +74,5 @@ Dr. Manpreet Singh Manna is working as Associate Professor at Sant Longowal Inst
 | <font size="2"> 28-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Presentation regarding Physics </font> |  <font size="2"> Dr. Randhir Singh </font> |
 | <font size="2"> 29-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Presentation regarding "Engineering Drawing and Computer Graphics" </font> |  <font size="2"> Dr. Harwinder Singh </font> |
 | <font size="2"> 29-10-2020 </font> |  |<font size="2"> 11:00 AM </font> |  |<font size="2"> Presentation on Skill Traing Programs at STEP-GNDEC </font> |  <font size="2"> Dr. Arvind Dhingra </font> |
-| <font size="2"> 29-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Importance and need of E-learning for achieving excellence in academics </font> |  <font size="2"> Prof. (Dr) Inder deep Singh </font> |
+| <font size="2"> 29-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Importance and need of E-learning for achieving excellence in academics </font> |  <font size="2"> Prof. (Dr.) Inder deep Singh </font> |
 
