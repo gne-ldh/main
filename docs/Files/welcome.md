@@ -35,6 +35,10 @@ For convenience of students, the branch abbreviations are given below:
 ![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/gs.JPG?raw=true "gs")
 ## GNDEC welcomes Mr. Gursharan Singh (MD True Success Academy Chandigarh)
 Mr. Gursharan Singh is Business Consultant, Trainer & Life Coach helping People & Organizations to Become Better & Achieve Better Results. He will be delivering expert lecture to newly admitted students of B.Tech. on 26-10-2020 from 11:30 am to 1:00 pm. The topic of his expert lecture is "How to build rock solid career."
+![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/IS.jpg?raw=true "gs")
+## GNDEC welcomes Prof. (Dr.) Inder deep Singh
+Prof. (Dr.) Inder deep Singh is working as Professor, Department of Mechanical & Industrial Engineering. He is also Coordinator, E- Learning Center at Indian institute of technology, Roorkee. He will be delivering his talk to students of B.Tech. first year on 29-10-2020 from 11:30am to 1:00pm. The topic of his expert lecture is "Introduction to Swayam-NPTEL & its role in today's world." 
+## GNDEC welcomes Prof. (Dr.) Inder deep Singh
 ## Detail of expert lectures of Induction Program
 
 | Date | | Time | | Activity Name | Expert Name | 
