@@ -44,7 +44,7 @@ Prof. (Dr.) Inder deep Singh is working as Professor, Department of Mechanical &
 
 ![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/ms.jpg?raw=true "ms")
 ## GNDEC welcomes Dr.Manpreet Singh Manna
-Dr. Manpreet Singh Manna is working as Associate Professor at Sant Longowal Institute of engineering and technology, Longowal,  Punjab. Formerly he has been Former Director, AICTE (SWAYAM). He is chief guest of the Induction program on concluding day, that is 30-10-2020. He will be delivering his expert lecture to the B.Tech. students on the topic "E- Learning modes of students."
+Dr. Manpreet Singh Manna is working as Associate Professor at Sant Longowal Institute of engineering and technology, Longowal,  Punjab. Formerly he has served as Director, AICTE (SWAYAM). He is chief guest of the Induction program on concluding day, that is 30-10-2020. He will be delivering his expert lecture to the B.Tech. students on the topic "Exploring various resources of online learning."
 ## Detail of expert lectures of Induction Program
 
 | Date | | Time | | Activity Name | Expert Name | 
