@@ -31,20 +31,6 @@ For convenience of students, the branch abbreviations are given below:
 | Mechanical engineering | ME |
 | Mechanical Engineering (Production) | PE |
 
-
-![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/gs.JPG?raw=true "gs")
-## GNDEC welcomes Mr. Gursharan Singh (MD True Success Academy Chandigarh)
-Mr. Gursharan Singh is Business Consultant, Trainer & Life Coach helping People & Organizations to Become Better & Achieve Better Results. He will be delivering expert lecture to newly admitted students of B.Tech. on 26-10-2020 from 11:30 am to 1:00 pm. The topic of his expert lecture is "How to build rock solid career."
-
-
-![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/IS.jpg?raw=true "gs")
-## GNDEC welcomes Prof. (Dr.) Inder deep Singh
-Prof. (Dr.) Inder deep Singh is working as Professor, Department of Mechanical & Industrial Engineering. He is also Coordinator, E- Learning Center at Indian institute of technology, Roorkee. He will be delivering his talk to students of B.Tech. first year on 29-10-2020 from 11:30am to 1:00pm. The topic of his expert lecture is "Importance and need of E-learning for achieving excellence in academics." 
-
-
-![Alt text](https://github.com/gne-ldh/main/blob/main/docs/Files/Images/ms.jpg?raw=true "ms")
-## GNDEC welcomes Dr.Manpreet Singh Manna
-Dr. Manpreet Singh Manna is working as Associate Professor at Sant Longowal Institute of engineering and technology, Longowal,  Punjab. Formerly he has served as Director, AICTE (SWAYAM). He is chief guest of the Induction program on concluding day, that is 30-10-2020. He will be delivering his expert lecture to the B.Tech. students on the topic "Exploring various resources of online learning."
 ## Detail of expert lectures of Induction Program
 
 | Date | | Time | | Activity Name | Expert Name | 
@@ -77,3 +63,8 @@ Dr. Manpreet Singh Manna is working as Associate Professor at Sant Longowal Inst
 | <font size="2"> 29-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Importance and need of E-learning for achieving excellence in academics </font> |  <font size="2"> Prof. (Dr.) Inder deep Singh </font> |
 | <font size="2"> 30-10-2020 </font> |  |<font size="2"> 10:00 AM </font> |  |<font size="2"> Exploring various resources of online learning </font> |  <font size="2"> Dr. Manpreet Singh Manna </font> |
 | <font size="2"> 30-10-2020 </font> |  |<font size="2"> 11:30 AM </font> |  |<font size="2"> Introduction to college Learning Content Management System (LCMS) </font> |  <font size="2"> Pf. Satinderpal Singh </font> |
+| <font size="2"> 02-11-2020 </font> |  |<font size="2"> 10:30 AM (Rescheduled) </font> |  |<font size="2"> Introduction to college Learning Content Management System (LCMS) </font> |  <font size="2"> Pf. Satinderpal Singh </font> |
+| <font size="2"> 03-11-2020 </font> |  |<font size="2"> 8:00 AM- 9:30 AM </font> |  |<font size="2"> Mentor Activity for CSE branch students </font> |  <font size="2"> Concerned Mentor(s) </font> |
+| <font size="2"> 03-11-2020 </font> |  |<font size="2"> 9:30 AM- 11:00 AM </font> |  |<font size="2"> Mentor Activity for IT & Mechanical (PE) branch students </font> |  <font size="2"> Concerned Mentor(s) </font> |
+| <font size="2"> 03-11-2020 </font> |  |<font size="2"> 11:00 AM- 12:30 PM </font> |  |<font size="2"> Mentor Activity for ME & CE branch students </font> |  <font size="2"> Concerned Mentor(s) </font> |
+| <font size="2"> 03-11-2020 </font> |  |<font size="2"> 12:30 PM- 2:00 PM </font> |  |<font size="2"> Mentor Activity for EE & ECE branch students </font> |  <font size="2"> Concerned Mentor(s) </font> |
