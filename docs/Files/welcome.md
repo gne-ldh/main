@@ -1,6 +1,8 @@
 # Welcome
 
 to all students admitted to Guru Nanak Dev Engineering College, Ludhiana
+## Link to time table for online classes:
+All students of B.Tech. first year can see their time table and mentors list by clicking this [link](https://appsc.gndec.ac.in/?q=node/5)
 
 ## Mandatory Induction Program Inaugural day joining link:
 
