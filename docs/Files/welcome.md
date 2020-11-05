@@ -2,6 +2,8 @@
 
 to all students admitted to Guru Nanak Dev Engineering College, Ludhiana
 
+## [Programming for problem solving (PPS) lab of CE-A2](https://guru.gndec.ac.in/mod/bigbluebuttonbn/view.php?id=14196&group=3819)
+
 ## [Civil Tutorial of PPS at 08:00 pm](https://guru.gndec.ac.in/mod/bigbluebuttonbn/view.php?id=14031&group=0)
 
 
