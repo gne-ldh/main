@@ -2,7 +2,10 @@
 
 to all students admitted to Guru Nanak Dev Engineering College, Ludhiana
 
-## [Programming for problem solving (PPS) lab](https://guru.gndec.ac.in/mod/bigbluebuttonbn/view.php?id=14196&group=0)
+### [Programming for problem solving (PPS) lab](https://gndec-ac-in.zoom.us/j/85335289849?pwd=L2t0RC9OWWtxVHorSHQzc2pIaktkQT09)
+
+Meeting ID: 853 3528 9849
+Passcode: 140058
 
 ## [Civil Tutorial of PPS at 08:00 pm](https://guru.gndec.ac.in/mod/bigbluebuttonbn/view.php?id=14031&group=0)
 
