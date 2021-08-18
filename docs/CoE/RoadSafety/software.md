@@ -21,3 +21,18 @@ or through [FreeCAD](https://freecadweb.org/)
 
 1. [PSPP](https://www.gnu.org/software/pspp/)
 2. [R](https://www.r-project.org/) and [R-Studio](https://rstudio.com/)
+
+### Office Suit
+
+1. Office Suit: [LibreOffice](https://www.libreoffice.org/) includes
+    1. Word Processor: [Writer](https://www.libreoffice.org/discover/writer/)
+    2. Spreadsheet: [Calc](https://www.libreoffice.org/discover/calc/)
+    3. Presentations: [Impress](https://www.libreoffice.org/discover/impress/)
+    4. Drawing / Diagrams: [Draw](https://www.libreoffice.org/discover/draw/)
+    5. Database: [Base](https://www.libreoffice.org/discover/base/)
+    6. Formula Editor: [Math](https://www.libreoffice.org/discover/math/)
+    7. Charts: [Charts](https://www.libreoffice.org/discover/charts/)
+2. Document Converter: [PanDoc](https://pandoc.org/)
+
+
+
